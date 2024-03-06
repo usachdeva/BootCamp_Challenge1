@@ -38,3 +38,6 @@ Repository should have a README file
 ## Deployment
 
 https://usachdeva.github.io/Horiseon-challenge/
+
+## Screenshot
+
