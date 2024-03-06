@@ -37,7 +37,8 @@ Repository should have a README file
 
 ## Deployment
 
-https://usachdeva.github.io/Horiseon-challenge/
+Page Url : https://usachdeva.github.io/Horiseon-challenge/
+Repo : https://github.com/usachdeva/Horiseon-challenge
 
 ## Screenshot
 ![alt text](usachdeva.github.io_Horiseon-challenge_.png)
