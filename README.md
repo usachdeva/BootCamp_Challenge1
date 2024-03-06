@@ -34,3 +34,7 @@ Site deployment link is working
 Index.html should be at main page
 Repository should have a README file
 ```
+
+## Deployment
+
+https://usachdeva.github.io/Horiseon-challenge/
