@@ -40,4 +40,4 @@ Repository should have a README file
 https://usachdeva.github.io/Horiseon-challenge/
 
 ## Screenshot
-
+![alt text](usachdeva.github.io_Horiseon-challenge_.png)
