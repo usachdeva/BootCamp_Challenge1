@@ -1,6 +1,5 @@
-# BootCamp_Challenge1
-
-First Challenge of Coding UoFT BootCamp 2024
+# Horiseon 
+Your go-to social media advising organization
 
 ## User Story
 
