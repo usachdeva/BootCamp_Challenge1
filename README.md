@@ -4,25 +4,19 @@ Your go-to social media advising organization
 ## User Story
 
 ```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+User was a given a webpage to create a webpage for the Horiseon marketing agency to provide what they resembles and how they provide services to increse client's social presence. It will help them grab more clients in future.
 ```
 
 ## Acceptance Criteria
 
 ```
-GIVEN a webpage meets accessibility standards
-WHEN tutor view the source code
-THEN tutorfind semantic HTML elements
-WHEN tutor view the structure of the HTML elements
-THEN tutor find that the elements follow a logical structure independent of styling and positioning
-WHEN tutor view the icon and image elements
-THEN tutor find accessible alt attributes
-WHEN tutor view the heading attributes
-THEN they fall in sequential order
-WHEN tutor view the title element
-THEN tutor find a concise, descriptive title
+Provide a clear and working code
+The file should be at main page visible to the developer
+The file should contain the neat version of the symantics
+There should be a alt attribute for the image and icons on the site
+The headings comes in the sequential manner
+The title should be descriptive 
+The CSS file should contain comments
 ```
 
 ## Marking Criteria
