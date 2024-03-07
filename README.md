@@ -41,4 +41,5 @@ Page Url : https://usachdeva.github.io/Horiseon-challenge/<br>
 Repo : https://github.com/usachdeva/Horiseon-challenge
 
 ## Screenshot
-![alt text](usachdeva.github.io_Horiseon-challenge_.png)
+
+![alt text](assets/screenshot/usachdeva.github.io_Horiseon-challenge_.png)
